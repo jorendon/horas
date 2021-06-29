@@ -16,3 +16,10 @@ Run Project
 - Node
 - Express
 - Moment
+
+
+
+No pude desplegarlo en HEROKU me dió un error que desconozco
+
+
+Local si funciona
