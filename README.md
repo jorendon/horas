@@ -1,14 +1,17 @@
 # horas
 
 # BackendTuten
-Api para convertir hora en UTC
+Api para convertir hora en UTC desarrado con Node.js 12.18.1 y Express.js 4.17.1 
 
-In the project directory, you can run:
+1.Debe desacargar el proyecto. 
 
-Install all depency
+2.Ubicarse en la raiz.
+
+3.Ejecutar el comando npm para instalar todas las dependencias
+
 ### `npm install`
 
-Run Project
+4.Ejecutar el comando npm para levantar el servicio
 ### `node index.js`
 
 # Tools
@@ -16,10 +19,3 @@ Run Project
 - Node
 - Express
 - Moment
-
-
-
-No pude desplegarlo en HEROKU me dió un error que desconozco
-
-
-Local si funciona
